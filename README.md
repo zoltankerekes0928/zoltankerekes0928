@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zoltan Kerekes
 - 👀 I’m interested in web/frontend developing.
-- 🌱 I’m currently learning HTML, CSS, SASS,  Bootstap Javascript, React.
+- 🌱 I’m currently learning HTML, CSS, SASS,  Bootstap Javascript, Typescript,  React.
 - 📫 You can reach me via zoltankerekes0928@gmail.com
 
 <!---
